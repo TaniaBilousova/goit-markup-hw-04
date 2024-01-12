@@ -60,25 +60,23 @@ padding-top: 24px;
 padding-bottom: 24px;
 gap: 40px;
 }
-.menu-item{
-position: relative;
-color: #404bbf;
-left: 0;
-bottom: -1px;
-width: 48px;
-height: 4px;
-background-color: #404bbf;
-border-radius: 2px;
-}
 
-.menu-item::after {
-content: ''
-}
 
 
 .header-menu-link{
-padding-top: 24px;
-padding-bottom: 24px;
+position: relative;
+    color: #404bbf;
+    padding-top: 24px;
+    padding-bottom: 24px;
+            left: 0;
+            bottom: -1px;
+            height: 4px;
+            border-radius: 2px;
+            background-color: #404bbf;
+}
+
+.header-menu-link::after {
+content: ''
 }
 
 .header-menu-item{
