@@ -118,7 +118,11 @@ margin-right: auto;
 /**------------------------*/
 /**-------------Hero-----------*/
 .hero{
-background-color: #2e2f42;
+background-color: #2E2F42;
+background-image: linear-gradient(rgba (46, 47, 66, 0.70), rgba (46, 47, 66, 0.70)); url(../images/image-11.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
 padding-top: 188px;
 padding-bottom: 188px;
 }
