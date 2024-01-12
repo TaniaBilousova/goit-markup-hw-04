@@ -60,15 +60,20 @@ padding-top: 24px;
 padding-bottom: 24px;
 gap: 40px;
 }
-.header-item-studio{
-height: 4px;
+.menu-item{
 position: relative;
 color: #404bbf;
 left: 0;
 bottom: -1px;
-
+width: 48px;
+height: 4px;
+background-color: #404bbf;
+border-radius: 2px;
 }
-.header-item-studio: :after content;
+
+.menu-item::after {
+content: ''
+}
 
 
 .header-menu-link{
