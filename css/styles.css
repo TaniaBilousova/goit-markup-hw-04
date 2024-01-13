@@ -287,9 +287,12 @@ margin: auto;
 
 .link-list {
 display: flex;
+height: 40px;
 justify-content: center;
 gap: 24px;
 padding-bottom: 32px;
+width: 100%,
+height: 100%;
 }
 
 
