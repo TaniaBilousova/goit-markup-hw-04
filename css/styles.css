@@ -61,22 +61,14 @@ padding-bottom: 24px;
 gap: 40px;
 }
 
-
-
 .header-menu-link{
-position: relative;
-    color: #404bbf;
-    padding-top: 24px;
-    padding-bottom: 24px;
-            left: 0;
-            bottom: -1px;
-            height: 4px;
-            border-radius: 2px;
-            background-color: #404bbf;
+padding-top: 24px;
+padding-bottom: 24px;      
 }
 
 .header-menu-link::after {
 content: ''
+posiyion: absolute;
 }
 
 .header-menu-item{
@@ -211,6 +203,9 @@ margin-bottom: 8px;
 }
 .features-item{
 width: calc((100% - 72px) / 4);
+}
+.features-label{
+flex-shrink: 0;
 }
 
 .features-item-reference{
