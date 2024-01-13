@@ -285,6 +285,15 @@ text-align: center;
 margin: auto;
 }
 
+.link-list {
+display: flex;
+justify-content: center;
+gap: 24px;
+padding-bottom: 32px;
+}
+
+
+
 .features-list-guide{
 margin-bottom: 8px;
 text-align: center;
