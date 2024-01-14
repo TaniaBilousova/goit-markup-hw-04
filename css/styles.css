@@ -426,6 +426,10 @@ color: #F4F4FD;
 max-width: 264px;
 margin-right: 156px;
 }
+.footer-media-text{
+display: flex;
+align-items: baseline;
+}
 .footer-media{
 margin-right: 120px;
 }
