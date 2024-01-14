@@ -391,7 +391,7 @@ text-align: left;
 color: #F4F4FD;
 max-width: 264px;
 }
-.media-title{
+.footer-media-title{
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
@@ -400,7 +400,7 @@ letter-spacing: 0.32px;
 color :#FFFFFF;
 margin-bottom: 16px;
 }
-.media-list{
+.footer-media-list{
 display: flex;
 gap: 16px;
 }
