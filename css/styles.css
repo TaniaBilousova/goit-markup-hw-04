@@ -367,6 +367,8 @@ color: #434455;
 background: #2E2F42;
 padding-top: 100px;
 padding-bottom: 100px;
+display: flex;
+align-items: baseline;
 }
 
 .footer-logo{
@@ -390,6 +392,9 @@ letter-spacing: 0.02em;
 text-align: left;
 color: #F4F4FD;
 max-width: 264px;
+}
+.footer-media{
+margin-right: 120px;
 }
 .footer-media-title{
 font-size: 16px;
