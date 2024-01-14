@@ -265,6 +265,10 @@ color: #2e2f42;
 gap: 48px;
 width: calc((100% - 48px) / 3);
 }
+.team-text{
+position: relative;
+overflow: hidden;
+}
 
 .content{
 position: relative;
