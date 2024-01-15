@@ -344,9 +344,7 @@ box-shadow:  0px 1px 6px rgba(46, 47, 66, 0.08),
 width: 40px;
 height: 40px;
 }
-.link-icon{
-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+
 .link{
 display: flex;
 justify-content: center;
