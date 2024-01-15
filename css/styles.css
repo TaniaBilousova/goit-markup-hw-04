@@ -60,6 +60,15 @@ padding-top: 24px;
 padding-bottom: 24px;
 gap: 40px;
 }
+.header-menu-item {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+gap: 40px;
+}
 
 .header-link{
 padding-top: 24px;
@@ -80,15 +89,6 @@ background-color: #404bbf;
 border-radius: 2px;
 }
 
-.header-menu-item{
-font-family: Roboto;
-font-size: 16px;
-font-weight: 500;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color:#2E2F42;
-gap: 40px;
-}
 .header-menu-item:hover{
  color: #404bbf;   
 }
