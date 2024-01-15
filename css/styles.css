@@ -344,6 +344,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .link-list-icon{
 width: 40px;
 height: 40px;
+transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .link{
