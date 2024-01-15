@@ -59,7 +59,6 @@ display: flex;
 padding-top: 24px;
 padding-bottom: 24px;
 gap: 40px;
-color: #404bbf;
 }
 
 .header-link{
@@ -76,6 +75,7 @@ left: 0;
 bottom: -1px;
 width: 48px;
 height: 4px;
+color: #404bbf;
 background-color: #404bbf;
 border-radius: 2px;
 }
