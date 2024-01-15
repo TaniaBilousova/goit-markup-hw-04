@@ -266,6 +266,9 @@ letter-spacing: 0.02em;
 display: flex;
 gap: 24px;
 flex-wrap: wrap;
+box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16),
+    0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .team-list-title{
 font-weight: 500;
@@ -314,7 +317,6 @@ background-color: #FFFFFF;
 border-radius: 0px 0px 4px 4px;
 }
 
-
 .team-img{
 display: block;
 gap: 24px;
@@ -345,13 +347,7 @@ box-shadow:  0px 1px 6px rgba(46, 47, 66, 0.08),
 .link-list-icon{
 width: 40px;
 height: 40px;
-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16),
-    0px 2px 1px rgba(46, 47, 66, 0.08);
 }
-
-
 
 .link{
 display: flex;
