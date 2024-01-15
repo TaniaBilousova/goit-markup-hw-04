@@ -60,14 +60,13 @@ padding-top: 24px;
 padding-bottom: 24px;
 gap: 40px;
 }
-.header-menu-link{
-color: #404bbf;
-}
+
 .header-link{
 padding-top: 24px;
 padding-bottom: 24px;
 position: relative;
 transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+color: #404bbf;
 }
 
 .header-link::after{
@@ -266,9 +265,6 @@ letter-spacing: 0.02em;
 display: flex;
 gap: 24px;
 flex-wrap: wrap;
-box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16),
-    0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .team-list-title{
 font-weight: 500;
